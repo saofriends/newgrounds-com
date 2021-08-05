@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://newgrounds-com.herokuapp.com/host-https-www.newgrounds.com/sitemap.xml
+Sitemap: https://newgrounds-com.herokuapp.com/sitemap.xml
